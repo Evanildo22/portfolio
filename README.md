@@ -166,7 +166,7 @@
                   <li><span class="pro-title"> Country </span> <span class="pro-detail">UK</span></li>
                   <li><span class="pro-title"> Location </span> <span class="pro-detail">London, Westminster</span></li>
                   <li><span class="pro-title"> e-mail </span> <span class="pro-detail">dejaines@hotmail.com</span></li>
-                  <li><span class="pro-title"> Phone </span> <span class="pro-detail">+ (+44) 74 1126 9534</span></li>
+                  <li><span class="pro-title"> Phone </span> <span class="pro-detail">+ (44) 74 1126 9534</span></li>
                   <li><span class="pro-title"> Freelance </span> <span class="pro-detail">Available</span></li>
                 </ul>
               </div>
@@ -518,7 +518,7 @@
                     <div class="contact-icon">
                       <i class="fa fa-map-marker"></i>
                     </div>
-                    <p>San Francisco, CA</p>
+                    <p>London, UK</p>
                   </div>
                   <div class="single-contact">
                     <div class="contact-icon">
@@ -531,8 +531,8 @@
                     <div class="contact-icon">
                       <i class="fa fa-phone"></i>
                     </div>
-                    <p><a href="#">+ (+44) 74 1126 9534</a></p>
-                    <p><a href="#">+ (+44) 74 1126 9534</a></p>
+                    <p><a href="#">+ (44) 74 1126 9534</a></p>
+                    <p><a href="#">+ (44) 74 1126 9534</a></p>
                   </div>
                 </div>
               </div>
