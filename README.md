@@ -113,7 +113,7 @@
             <div class="col-md-12 col-sm-12 text-center">
               <div class="contents">
                 <h5 class="script-font wow fadeInUp" data-wow-delay="0.2s">Hi This is</h5>
-                <h2 class="head-title wow fadeInUp" data-wow-delay="0.4s">Tom Saulnier</h2>
+                <h2 class="head-title wow fadeInUp" data-wow-delay="0.4s">Evanildo Ribeiro</h2>
                 <p class="script-font wow fadeInUp" data-wow-delay="0.6s">Front-end Web Developer and Graphic Designer</p>
                 <ul class="social-icon wow fadeInUp" data-wow-delay="0.8s">
                   <li>
@@ -524,15 +524,15 @@
                     <div class="contact-icon">
                       <i class="fa fa-envelope"></i>
                     </div>
-                    <p><a href="mailto:hello@tom.com">hello@tom.com</a></p>
-                    <p><a href="mailto:tomsaulnier@gmail.com">tomsaulnier@gmail.com</a></p>
+                    <p><a href="mailto:dejaines@hotmail.com">dejaines@hotmail.com</a></p>
+                    <p><a href="mailto:dejaines@gmail.com">dejaines@gmail.com</a></p>
                   </div>
                   <div class="single-contact">
                     <div class="contact-icon">
                       <i class="fa fa-phone"></i>
                     </div>
-                    <p><a href="#">+ (00) 123 456 789</a></p>
-                    <p><a href="#">+ (00) 123 344 789</a></p>
+                    <p><a href="#">+ (+44) 74 1126 9534</a></p>
+                    <p><a href="#">+ (+44) 74 1126 9534</a></p>
                   </div>
                 </div>
               </div>
