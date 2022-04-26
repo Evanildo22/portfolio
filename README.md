@@ -160,13 +160,13 @@
               <p>Est diam venenatis arcu lacus ad. Duis quis eros. Cursus et rutrum eleifend sollicitudin lacinia justo id turpis. Nec convallis integer. Odio eget duis. Nulla aenean et. Blandit varius sollicitudin. Pellentesque leo primis neque urna magnis. Elit ut sollicitudin. Et est a nam dolores eget itaque sagittis et parturient duis est eleifend sociis rutrum odio viverra integer.</p>
               <div class="about-profile">
                 <ul class="admin-profile">
-                  <li><span class="pro-title"> Name </span> <span class="pro-detail">Tom Saulnier</span></li>
-                  <li><span class="pro-title"> Age </span> <span class="pro-detail">25 Years</span></li>
+                  <li><span class="pro-title"> Name </span> <span class="pro-detail">Evanildo Ribeiro</span></li>
+                  <li><span class="pro-title"> Age </span> <span class="pro-detail">39 Years</span></li>
                   <li><span class="pro-title"> Experience </span> <span class="pro-detail">4 Years</span></li>
-                  <li><span class="pro-title"> Country </span> <span class="pro-detail">USA</span></li>
-                  <li><span class="pro-title"> Location </span> <span class="pro-detail">San Francisco, CA</span></li>
-                  <li><span class="pro-title"> e-mail </span> <span class="pro-detail">email@example.com</span></li>
-                  <li><span class="pro-title"> Phone </span> <span class="pro-detail">+ (00) 123 456 789</span></li>
+                  <li><span class="pro-title"> Country </span> <span class="pro-detail">UK</span></li>
+                  <li><span class="pro-title"> Location </span> <span class="pro-detail">London, Westminster</span></li>
+                  <li><span class="pro-title"> e-mail </span> <span class="pro-detail">dejaines@hotmail.com</span></li>
+                  <li><span class="pro-title"> Phone </span> <span class="pro-detail">+ (+44) 74 1126 9534</span></li>
                   <li><span class="pro-title"> Freelance </span> <span class="pro-detail">Available</span></li>
                 </ul>
               </div>
