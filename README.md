@@ -158,14 +158,14 @@
             <div class="profile-wrapper wow fadeInRight" data-wow-delay="0.3s">
               <h3>Hi Guys!</h3>
                <p>
-                  As a recent cybersecurity graduate, I am thrilled to introduce myself as someone enthusiastic and eager to make a difference in the           
+                  As a recent cybersecurity graduate, I am thrilled to introduce myself as someone enthusiastic <br>and eager to make a difference in the           
                   cybersecurity industry. With a strong foundation in cybersecurity principles, I am excited to apply my knowledge and skills to real- 
                   world scenarios.
                </p>
-                <br>
+                
                <p>
-                  I am passionate about staying up-to-date with cybersecurity trends and technologies and continuously improving my skills. Throughout my     
-                  academic journey, I have honed my analytical skills, attention to detail, and critical thinking ability.
+                  I am passionate about staying up-to-date with the lastest cybersecurity trends and technologies and continuously improving my skills.     
+                  Throughout my academic journey, I have honed my analytical skills, attention to detail, and critical thinking ability.
                </p>
                <br>
                <p>
