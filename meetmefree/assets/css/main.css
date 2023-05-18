@@ -325,7 +325,8 @@ a.back-to-top:hover, a.back-to-top:focus {
   content: ':';
   color: #040404;
   font-size: 14px;
-  left: 50px;
+  left: 77px;
+  margin-left:5px;
 }
 
 .about-profile .admin-sign {
