@@ -36,7 +36,8 @@
         <div class="container">
           <!-- Brand and toggle get grouped for better mobile display -->
           <div class="navbar-header">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-
+                    expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
               <span class="icon-menu"></span>
               <span class="icon-menu"></span>
@@ -158,19 +159,22 @@
             <div class="profile-wrapper wow fadeInRight" data-wow-delay="0.3s">
               <h3>Hi Guys!</h3>
                <p>
-                  As a recent cybersecurity graduate, I am thrilled to introduce myself as someone enthusiastic <br>and eager to make a difference in the           
-                  cybersecurity industry. With a strong foundation in cybersecurity principles, I am excited to apply my knowledge and skills to real- 
-                  world scenarios.
+                  As a recent cybersecurity graduate, I am thrilled to introduce myself as someone enthusiastic <br>and eager to make a 
+                  difference in the cybersecurity industry. With a strong foundation in cybersecurity principles, I am excited to apply my 
+                  knowledge and skills to 
+                  real-world scenarios.
                </p>
                 
                <p>
-                  I am passionate about staying up-to-date with the lastest cybersecurity trends and technologies and continuously improving my skills.     
+                  I am passionate about staying up-to-date with the lastest cybersecurity trends and technologies and continuously improving my 
+                  skills.     
                   Throughout my academic journey, I have honed my analytical skills, attention to detail, and critical thinking ability.
                </p>
                <br>
                <p>
-                  I am keen to gain practical experience and contribute to the industry by helping organizations protect themselves against cyber threats.   
-                  My passion for cybersecurity and my education and skills make me a valuable asset to any team.
+                  I am keen to gain practical experience and contribute to the industry by helping organizations protect themselves against cyber   
+                  threats.   
+                  Please feel free to reach out to me if you are seeking to incorporate another valuable asset into your team.
                </p>
               <div class="about-profile">
                 <ul class="admin-profile">
@@ -266,21 +270,24 @@
                   <div class="content-text">
                     <h3 class="line-title">Bsc In CSE - Yale University</h3>
                     <span>2012 - 2016</span>
-                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling 
+                      listening. Thing do taste on we manor.</p>
                   </div>
                 </li>
                 <li>
                   <div class="content-text">
                     <h3 class="line-title">Higher Secondary School - San Francisco College</h3>
                     <span>2010 - 2012</span>
-                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling 
+                      listening. Thing do taste on we manor.</p>
                   </div>
                 </li>
                 <li>
                   <div class="content-text">
                     <h3 class="line-title">Secondary School - Labratory High School</h3>
                     <span>2005 - 2010</span>
-                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling 
+                      listening. Thing do taste on we manor.</p>
                   </div>
                 </li>
               </ul>
@@ -297,21 +304,24 @@
                   <div class="content-text">
                     <h3 class="line-title">Art Director - Tesla Inc.</h3>
                     <span>Jan 2018 - Present</span>
-                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling 
+                      listening. Thing do taste on we manor.</p>
                   </div>
                 </li>
                 <li>
                   <div class="content-text">
                     <h3 class="line-title">UX/UI Designer - Samsung</h3>
                     <span>Nov 2016 - Dec 2017</span>
-                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling 
+                      listening. Thing do taste on we manor.</p>
                   </div>
                 </li>
                 <li>
                   <div class="content-text">
                     <h3 class="line-title">Intern UI Designer - UIdeck</h3>
                     <span>Mar 2015 - Oct 2016</span>
-                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling listening. Thing do taste on we manor.</p>
+                    <p class="line-text">Expenses as material breeding insisted building to in. Continual so distrusts pronounce by unwilling 
+                      listening. Thing do taste on we manor.</p>
                   </div>
                 </li>
               </ul>
