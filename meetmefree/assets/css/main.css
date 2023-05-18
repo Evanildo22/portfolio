@@ -322,10 +322,10 @@ a.back-to-top:hover, a.back-to-top:focus {
 
 .about-profile .pro-title:after {
   position: absolute;
-  content: ' :';
+  content: ':';
   color: #040404;
   font-size: 14px;
-  left: 77px;
+  left: 78px;
 }
 
 .about-profile .admin-sign {
